@@ -7,9 +7,10 @@ YOU CAN:
 - Clone or download the project
 - Read the code
 - Build or run the project
-- Modify or test the project
+- Test or try out the project
 - Download the entire project on your own physical disk
 - Take screenshots from the project
+- Use the files for their intended purposes
 
 YOU CAN'T:
 - Make changes or modify the project
